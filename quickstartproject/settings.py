@@ -125,4 +125,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ['https://*.msdocs-python-webapp-quickstart-103.azurewebsites.net']
+#CSRF_TRUSTED_ORIGINS = ['https://*.msdocs-python-webapp-quickstart-103.azurewebsites.net']
